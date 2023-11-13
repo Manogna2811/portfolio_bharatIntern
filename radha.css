@@ -15,7 +15,7 @@ body{
 .h{
     width: 100%;
     height: 100vh;
-    background-image: url(allimages/abc.avif);
+    background-image: url(allimages/abc.png);
     background-size: cover;
     background-position: center;
 }
